@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Mendrika Rabeh</h1>
+<h1 align="center">Hello✌️, I'm Mendrika Rabeh</h1>
 <h3 align="center">A coding lover from Madagascar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=finoanamendrika" alt="finoanamendrika" /> </p>
