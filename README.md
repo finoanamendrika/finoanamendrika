@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=finoanamendrika" alt="finoanamendrika" /> </p>
 
-<p align="center"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="figma" width="40" height="40"/></p>
+<p align="center"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="figma" width="40" height="40"/></p>
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?logo=apollo-graphql)
